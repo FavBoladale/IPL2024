@@ -4,7 +4,7 @@
 ### Creating a database with SQL for data analysis, historical data comparison, and seamless integration with other tools. With the continuous growth of the IPL and the increasing importance of data in sports, leveraging SQL databases is a powerful way to harness the full potential of IPL data, driving better decisions, enhancing fan experience, and ultimately contributing to the success of the league.
 
 ## TASK
-### Creating a nominalised database with relationship and integrity constraints - Database Name "IPL"
+### Creating a normalized database with relationship and integrity constraints - Database Name "IPL"
 ![Entity Relationship Diagram ](IPL2024_ERD_Light.jpg)
 
 # Tables
